@@ -1,4 +1,4 @@
-## Hello World I'm Haerul Algifar👋
+# Hello World I'm Haerul Algifar👋
 
 ![Banner](https://drive.google.com/uc?export=view&id=1EWPT4xC9stmatUT4vSzZ1Wg5qsQ4KoM0)
 
@@ -11,6 +11,36 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haerul-algifar-063932313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@haerul_920)
 
-## Skills
+## 🌐Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,laravel,swift,react,py,php,java,cpp,figma)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,laravel,swift,react,py,php,java,cpp,figma" />
+  </a>
+</p>
+
+
+## 🌏GitHub Stats:
+
+<div align="center">
+
+ ![](https://github-readme-stats.vercel.app/api?username=haerul920&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=haerul920&theme=blue_navy&hide_border=false)
+
+</div>
+
+---
+
+## 💵Support Me
+
+<div align="center">
+
+  <a href="https://saweria.co/hrlgfr">
+    <img src="https://img.shields.io/badge/SAWERIA-ff7f00?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.buymeacoffee.com/haerul920">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+
+</div>
