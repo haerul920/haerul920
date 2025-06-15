@@ -30,6 +30,6 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
 
 ## 💵Support Me 
 
-[![Saweria](https://img.shields.io/badge/SAWERIA-FF5F00?style=for-the-badge&logo=saweria&logoColor=white)](https://saweria.co/haerulalgifar)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/haerulalgifar)
+[![Saweria](https://img.shields.io/badge/SAWERIA-FF5F00?style=for-the-badge&logo=saweria&logoColor=white)](https://saweria.co/hrlgfr)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/haerul920)
 
