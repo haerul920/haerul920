@@ -22,14 +22,11 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
 
 ## 🌏GitHub Stats:
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haerul920&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" width="400" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=haerul920&theme=blue_navy&hide_border=false" width="400" />
+</p>
 
- ![](https://github-readme-stats.vercel.app/api?username=haerul920&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=haerul920&theme=blue_navy&hide_border=false)
-
-</div>
-
----
 
 ## 💵Support Me
 
@@ -38,7 +35,6 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
   <a href="https://saweria.co/hrlgfr">
     <img src="https://img.shields.io/badge/SAWERIA-ff7f00?style=for-the-badge" />
   </a>
-
   <a href="https://www.buymeacoffee.com/haerul920">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
