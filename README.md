@@ -27,6 +27,13 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
   <img src="https://nirzak-streak-stats.vercel.app/?user=haerul920&theme=blue_navy&hide_border=false" width="430" />
 </p>
 
+<img src="https://raw.githubusercontent.com/haerul_920/haerul_920/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haerul_920/haerul_920/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haerul_920/haerul_920/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haerul_920/haerul_920/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 💵Support Me 
 
