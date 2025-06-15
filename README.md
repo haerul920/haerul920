@@ -13,4 +13,4 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,swift,react,py,php,java,cpp,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,laravel,swift,react,py,php,java,cpp,figma)](https://skillicons.dev)
