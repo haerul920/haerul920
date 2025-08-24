@@ -15,7 +15,7 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,laravel,swift,react,py,php,java,cpp,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,laravel,react,py,php,java,cpp,figma" />
   </a>
 </p>
 
