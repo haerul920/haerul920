@@ -1,5 +1,5 @@
 # Hello World I'm Haerul Algifar👋
-https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=39FF14&center=true&vCenter=true&width=500&lines=Hello+World,+I'm+Haerul+Algifar
+
 ![Banner](https://drive.google.com/uc?export=view&id=1EWPT4xC9stmatUT4vSzZ1Wg5qsQ4KoM0)
 
 Hi, I’m a passionate Informatics Engineering undergraduate at Universitas Hasanuddin. I’m deeply fascinated by the world of full-stack development and UI/UX design, always eager to push boundaries and explore the latest in web technologies. My goal is to become a skilled bug hunter, crafting secure, innovative solutions and uncovering vulnerabilities to make the digital world safer.
