@@ -21,11 +21,11 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
 
 ## 🌏GitHub Stats
 
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haerul920&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" width="430" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=haerul920&theme=blue_navy&hide_border=false" width="430" />
-</p>
+</p>-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haerul920/haerul920/output/pacman-contribution-graph-dark.svg">
